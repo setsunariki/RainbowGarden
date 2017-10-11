@@ -1,0 +1,63 @@
+.GreenBrand 
+{
+	color: #a1e6a1 !important;
+	font-family: 'Pacifico', cursive;
+}
+.btn-success {
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 2px;
+    color: #fff;
+    border-color: #4dad51;
+    background-color: #4dad51;
+    font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    vertical-align: middle;
+}	
+.btn-info {
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 2px;
+    color: #fff;
+    border-color:  #2196f3;
+    background-color:  #2196f3;
+    font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    vertical-align: middle;
+}
+.btn-warning {
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 2px;
+    color: #fff;
+    border-color:   #ff9602 ;
+    background-color:   #ff9602 ;
+    font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    vertical-align: middle;
+}
+.btn-danger {
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 2px;
+    color: #fff;
+    border-color:   #f44336;
+    background-color:   #f44336;
+    font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    vertical-align: middle;
+}
+.Bsize
+{
+    width: 310px;
+    height: 400px;
+}
+.Bmiddle
+{
+    vertical-align: middle;
+}
+.Bcolor
+{
+    background-color: green !important;
+    border-color: :green !important;
+}
